@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sunny
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning HTML
-- 📫 How to reach me - just'gmail' me
+- 📫 How to reach me - just 'gmail' me
 
 <!---
 sunnyenam/sunnyenam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
